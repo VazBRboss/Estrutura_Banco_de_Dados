@@ -41,3 +41,4 @@ Instale a biblioteca para acessar os dados em Json:
 
 python -m pip install requests
 python -m pip install --upgrade yfinance pandas
+python -m pip install pyodbc
