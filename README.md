@@ -4,7 +4,7 @@ Used for final project from Estrutura de Banco de Dados - project that will use 
 
 We will use the https://dadosb3.com/empresas/WEGE3/indicadores and Https://www.yahoofinanceapi.com some others Endpoints.
 
-\##0. Como as APIs financeiras não eram gratuítas e as poucas que eram tinham limite de aquisição usamos o plugin do VSCode Chamado "yfinance" que conecta a api do Yahoo.  Mas há um script de aquisição e uma aquisição semelhante no repositório
+##0. Como as APIs financeiras não eram gratuítas e as poucas que eram tinham limite de aquisição usamos o plugin do VSCode Chamado "yfinance" que conecta a api do Yahoo.  Mas há um script de aquisição e uma aquisição semelhante no repositório
 
 
 
