@@ -4,9 +4,11 @@ Used for final project from Estrutura de Banco de Dados - project that will use 
 
 We will use the https://dadosb3.com/empresas/WEGE3/indicadores and Https://www.yahoofinanceapi.com some others Endpoints.
 
+\##0. Como as APIs financeiras não eram gratuítas e as poucas que eram tinham limite de aquisição usamos o plugin do VSCode Chamado "yfinance" que conecta a api do Yahoo.  Mas há um script de aquisição e uma aquisição semelhante no repositório
 
 
-1.Contextualização
+
+\##1. Contextualização
 
 O Mercado financeiro do brasil sofre uma mudança significativa a cada grande evento dentro do nosso cenário.
 
@@ -14,7 +16,7 @@ Este projeto analisa o comportamento do mercado de capitais brasileiro ao longo 
 
 
 
-2.Metodologia e Segmentação
+\##2. Metodologia e Segmentação
 
 Selecionaremos os 3 ou 4 ativos mais impactantes dentro de Comodites, Varejo e Estatais. E avaliaremos como nas últimas eleições estes indicadores foram afetados em pontos percentuais, em como se comportaram durante o primeiro e segundo turno se caso aplicável e como esse comportamento foi afetado por eleições diretas.
 
